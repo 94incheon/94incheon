@@ -38,9 +38,12 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 <!-- 
-뱃지 등록하는 방법
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
-https://img.shields.io/badge/logo-test-blue?logo={facebook}&logoColor=white
+<이미지 로고>
+https://simpleicons.org/
+
+<뱃지>
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?logo=<LOGO_NAME>&logoColor=<COLOR>
+https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 -->
 ![Python3](https://img.shields.io/badge/backend-python-yellow?logo=python&logoColor=white)
 
