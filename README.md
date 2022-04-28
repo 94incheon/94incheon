@@ -40,3 +40,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+## ⚡️ 𝗦𝘁𝗮𝘁𝘀
+![94incheon's github stats](https://github-readme-stats.vercel.app/api?username=94incheon&show_icons=true&theme=dracula)
