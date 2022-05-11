@@ -58,4 +58,4 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
-![94incheon's github stats](https://github-readme-stats.vercel.app/api?username=94incheon&show_icons=true&theme=dracula)
+![94incheon's github stats](https://github-readme-stats.vercel.app/api?username=renine94&show_icons=true&theme=dracula)
