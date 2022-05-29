@@ -3,12 +3,18 @@
         안녕하세요. 백엔드 개발자 강재구입니다.
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
-✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
+<div>
+    <div>
+        <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+    </div>
+    <div>
+        ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
+        ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+        ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+        ✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
+    </div>
+</div>
 
 ---
 
@@ -58,6 +64,7 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 ![94incheon's github stats](https://github-readme-stats.vercel.app/api?username=renine94&show_icons=true&theme=dracula)
