@@ -5,7 +5,7 @@
 </h1>
 
 <div>
-    <div>
+    <div style="float: right;">
         <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
     </div>
     <div>
@@ -64,7 +64,7 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
+![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat-square&logo=pycharm)
 
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 ![94incheon's github stats](https://github-readme-stats.vercel.app/api?username=renine94&show_icons=true&theme=dracula)
