@@ -10,6 +10,7 @@
 📫 &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
 😄 &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
 ⚡ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ---
 
@@ -38,7 +39,6 @@ me.say_hi()
 ```
 
 ## 🔧 Technologies & Tools
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <!-- 
 <이미지 로고>
 https://simpleicons.org/
