@@ -1,33 +1,15 @@
 <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-        안녕하세요. 백엔드 개발자 강재구입니다.
+        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 안녕하세요. 백엔드 개발자 강재구입니다.
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 
-✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
-✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
-
----
-
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm a [GitHub Star ⭐](https://stars.github.com/) and Head of Developer Experience at [Temporal.io](https://temporal.io/). I do a lot of [speaking on React and Svelte](https://www.swyx.io/speaking/), teach [React and TypeScript at Egghead.io](https://egghead.io/instructors/shawn-wang?af=95qfq1) and publish a [daily podcast](http://swyx.transistor.fm/) and [weekly newsletter](https://www.swyx.io/subscribe/) (subscribe!) curating the best of what I read and listen to. 
-
-I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
-
-<a href="https://renine94.github.io">
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=200 />
-</a>
-
-
-- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
-- 📫 How to reach me: `swyx at hey dot com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
+✔️ 💬 &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
+✔️ 📫 &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+✔️ 😄 &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+✔️ ⚡ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
 
 ---
 
