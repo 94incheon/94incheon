@@ -3,16 +3,12 @@
         안녕하세요. 백엔드 개발자 강재구입니다.
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-<div>
-    <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-    <p>
-    ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
-    ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
-    ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
-    ✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
-    </p>
-</div>
+✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
+✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+✔️ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
 
 ---
 
@@ -49,9 +45,9 @@ https://simpleicons.org/
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?logo=<LOGO_NAME>&logoColor=<COLOR>
 https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 -->
-![Python3](https://img.shields.io/badge/backend-python-yellow?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/backend-Django-green?logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/backend-GraphQL-purple?logo=graphql&logoColor=white)
+![Python3](https://img.shields.io/badge/-python-yellow?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-purple?logo=graphql&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
