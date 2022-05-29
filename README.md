@@ -5,10 +5,10 @@
 </h1>
 
 <div>
-    <div style="float: right;">
+    <div style="float: right; width: 50%">
         <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
     </div>
-    <div>
+    <div style="float: left; width: 50%">
         ✔️ &nbsp;스타트업 환경에 맞는 빠른 주기 개발, 특히 애자일 환경에 익숙합니다.\
         ✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
         ✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
