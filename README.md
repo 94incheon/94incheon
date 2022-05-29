@@ -1,6 +1,6 @@
 <h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-        <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 안녕하세요. 백엔드 개발자 강재구입니다.
+    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+        안녕하세요. 백엔드 개발자 강재구입니다.
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
@@ -38,6 +38,7 @@ me.say_hi()
 ```
 
 ## 🔧 Technologies & Tools
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <!-- 
 <이미지 로고>
 https://simpleicons.org/
