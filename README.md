@@ -50,7 +50,7 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ![Python3](https://img.shields.io/badge/-python-yellow?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?logo=graphql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=Amazon AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=Amazon%20AWS&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
