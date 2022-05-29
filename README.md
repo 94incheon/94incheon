@@ -10,13 +10,13 @@
 📫 &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
 😄 &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
 ⚡ &nbsp;저에 대해 궁금하시다면, <a href="https://renine94.github.io">제 블로그</a>를 방문해주세요.
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=94incheon)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 ```python
 #!/usr/bin/python
@@ -50,6 +50,7 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ![Python3](https://img.shields.io/badge/-python-yellow?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-green?logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-purple?logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=aws&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
