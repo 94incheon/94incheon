@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:40e0d0,50:ff8c00,100:ff0080&height=300&section=header&text=Let's%20Grow%20Together!&fontSize=60&fontColor=FFF&animation=fadeIn&fontAlignY=42)
+
+
 <h1>
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
         안녕하세요. 백엔드 개발자 강재구입니다.
