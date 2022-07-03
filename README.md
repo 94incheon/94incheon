@@ -71,8 +71,8 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 ## ⚡️ 𝗦𝘁𝗮𝘁𝘀
 <!-- 
 ![renine94's github stats](https://github-readme-stats.vercel.app/api?username=renine94&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renine94&langs_count=5&theme=radical&layout=compact&hide=java,html)](https://github.com/renine94/github-readme-stats)
 -->
 
-![renine94's GitHub stats](https://github-readme-stats.vercel.app/api?username=renine94&theme=radical&show_icons=true&count_private=true&include_all_commits=true)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renine94&langs_count=5&theme=radical&layout=compact&hide=java,html)](https://github.com/renine94/github-readme-stats)
-
+![renine94's GitHub stats](https://github-readme-stats.vercel.app/api?username=renine94&theme=radical&show_icons=true&count_private=false&include_all_commits=false)\
