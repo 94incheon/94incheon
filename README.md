@@ -9,6 +9,7 @@
     <img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" alt="icon" width="60px" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <!-- 자기소개 페이지 -->
