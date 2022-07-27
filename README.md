@@ -76,3 +76,19 @@ https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white
 -->
 
 ![renine94's GitHub stats](https://github-readme-stats.vercel.app/api?username=renine94&theme=radical&show_icons=true&count_private=true&include_all_commits=true)\
+
+
+
+
+
+
+### Python
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
+
+### DB
+<div style="display: flex; margin: 100px;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 10px;" /> <img src="https://camo.githubusercontent.com/c208789cfe0e64cd8e39a3ed1f7e7a04e26e18132bd0dcd510f42a17ac8a3984/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f72656469732d322f313435312f556e7469746c65642d322d3531322e706e67" alt="icon" width="60px" /><div>
+
+### etc.
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 23px; margin-bottom: 0px;" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+</div>
