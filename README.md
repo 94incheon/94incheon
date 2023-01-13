@@ -11,7 +11,6 @@
     <!--
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">      
     -->
-    [https://tenor.com/bfCQ8.gif](https://tenor.com/ko/view/hmm-thinking-emoji-gif-10925325)
         안녕하세요. 백엔드 개발자 강재구입니다.
     <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
